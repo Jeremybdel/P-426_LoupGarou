@@ -1,0 +1,10 @@
+C:\Users\thebrunner\Desktop\EnvoiDeMailDeRecuperation\EnvoiDeMailDeRecuperation\bin\Debug\EnvoiDeMailDeRecuperation.exe.config
+C:\Users\thebrunner\Desktop\EnvoiDeMailDeRecuperation\EnvoiDeMailDeRecuperation\bin\Debug\EnvoiDeMailDeRecuperation.exe
+C:\Users\thebrunner\Desktop\EnvoiDeMailDeRecuperation\EnvoiDeMailDeRecuperation\bin\Debug\EnvoiDeMailDeRecuperation.pdb
+C:\Users\thebrunner\Desktop\EnvoiDeMailDeRecuperation\EnvoiDeMailDeRecuperation\obj\Debug\EnvoiDeMailDeRecuperation.csprojAssemblyReference.cache
+C:\Users\thebrunner\Desktop\EnvoiDeMailDeRecuperation\EnvoiDeMailDeRecuperation\obj\Debug\EnvoiDeMailDeRecuperation.Form1.resources
+C:\Users\thebrunner\Desktop\EnvoiDeMailDeRecuperation\EnvoiDeMailDeRecuperation\obj\Debug\EnvoiDeMailDeRecuperation.Properties.Resources.resources
+C:\Users\thebrunner\Desktop\EnvoiDeMailDeRecuperation\EnvoiDeMailDeRecuperation\obj\Debug\EnvoiDeMailDeRecuperation.csproj.GenerateResource.cache
+C:\Users\thebrunner\Desktop\EnvoiDeMailDeRecuperation\EnvoiDeMailDeRecuperation\obj\Debug\EnvoiDeMailDeRecuperation.csproj.CoreCompileInputs.cache
+C:\Users\thebrunner\Desktop\EnvoiDeMailDeRecuperation\EnvoiDeMailDeRecuperation\obj\Debug\EnvoiDeMailDeRecuperation.exe
+C:\Users\thebrunner\Desktop\EnvoiDeMailDeRecuperation\EnvoiDeMailDeRecuperation\obj\Debug\EnvoiDeMailDeRecuperation.pdb
