@@ -1,0 +1,10 @@
+C:\Users\thebrunner\Desktop\ViewPlayerGame\ViewPlayerGame\bin\Debug\ViewPlayerGame.exe.config
+C:\Users\thebrunner\Desktop\ViewPlayerGame\ViewPlayerGame\bin\Debug\ViewPlayerGame.exe
+C:\Users\thebrunner\Desktop\ViewPlayerGame\ViewPlayerGame\bin\Debug\ViewPlayerGame.pdb
+C:\Users\thebrunner\Desktop\ViewPlayerGame\ViewPlayerGame\obj\Debug\ViewPlayerGame.csprojAssemblyReference.cache
+C:\Users\thebrunner\Desktop\ViewPlayerGame\ViewPlayerGame\obj\Debug\ViewPlayerGame.Form1.resources
+C:\Users\thebrunner\Desktop\ViewPlayerGame\ViewPlayerGame\obj\Debug\ViewPlayerGame.Properties.Resources.resources
+C:\Users\thebrunner\Desktop\ViewPlayerGame\ViewPlayerGame\obj\Debug\ViewPlayerGame.csproj.GenerateResource.cache
+C:\Users\thebrunner\Desktop\ViewPlayerGame\ViewPlayerGame\obj\Debug\ViewPlayerGame.csproj.CoreCompileInputs.cache
+C:\Users\thebrunner\Desktop\ViewPlayerGame\ViewPlayerGame\obj\Debug\ViewPlayerGame.exe
+C:\Users\thebrunner\Desktop\ViewPlayerGame\ViewPlayerGame\obj\Debug\ViewPlayerGame.pdb
