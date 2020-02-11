@@ -1,0 +1,9 @@
+C:\Users\artmenetrey\Desktop\Multiplayer\Multiplayer\bin\Debug\Multiplayer.exe.config
+C:\Users\artmenetrey\Desktop\Multiplayer\Multiplayer\bin\Debug\Multiplayer.exe
+C:\Users\artmenetrey\Desktop\Multiplayer\Multiplayer\bin\Debug\Multiplayer.pdb
+C:\Users\artmenetrey\Desktop\Multiplayer\Multiplayer\obj\Debug\Multiplayer.csprojAssemblyReference.cache
+C:\Users\artmenetrey\Desktop\Multiplayer\Multiplayer\obj\Debug\Multiplayer.csproj.CoreCompileInputs.cache
+C:\Users\artmenetrey\Desktop\Multiplayer\Multiplayer\obj\Debug\Multiplayer.exe
+C:\Users\artmenetrey\Desktop\Multiplayer\Multiplayer\obj\Debug\Multiplayer.pdb
+C:\Users\artmenetrey\Desktop\Multiplayer\Multiplayer\obj\Debug\Multiplayer.Properties.Resources.resources
+C:\Users\artmenetrey\Desktop\Multiplayer\Multiplayer\obj\Debug\Multiplayer.csproj.GenerateResource.cache

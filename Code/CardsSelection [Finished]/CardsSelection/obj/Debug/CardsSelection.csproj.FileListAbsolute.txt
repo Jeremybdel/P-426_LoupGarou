@@ -1,0 +1,14 @@
+C:\Users\trigerber\Desktop\CardsSelection\CardsSelection\bin\Debug\CardsSelection.exe.config
+C:\Users\trigerber\Desktop\CardsSelection\CardsSelection\bin\Debug\CardsSelection.exe
+C:\Users\trigerber\Desktop\CardsSelection\CardsSelection\bin\Debug\CardsSelection.pdb
+C:\Users\trigerber\Desktop\CardsSelection\CardsSelection\obj\Debug\CardsSelection.csprojAssemblyReference.cache
+C:\Users\trigerber\Desktop\CardsSelection\CardsSelection\obj\Debug\CardsSelection.csproj.CoreCompileInputs.cache
+C:\Users\trigerber\Desktop\CardsSelection\CardsSelection\obj\Debug\CardsSelection.exe
+C:\Users\trigerber\Desktop\CardsSelection\CardsSelection\obj\Debug\CardsSelection.pdb
+K:\INF\Eleves\Classes\Groupe_2C\LoupGarou\CardsSelection\CardsSelection\bin\Debug\CardsSelection.exe.config
+K:\INF\Eleves\Classes\Groupe_2C\LoupGarou\CardsSelection\CardsSelection\bin\Debug\CardsSelection.exe
+K:\INF\Eleves\Classes\Groupe_2C\LoupGarou\CardsSelection\CardsSelection\bin\Debug\CardsSelection.pdb
+K:\INF\Eleves\Classes\Groupe_2C\LoupGarou\CardsSelection\CardsSelection\obj\Debug\CardsSelection.csprojAssemblyReference.cache
+K:\INF\Eleves\Classes\Groupe_2C\LoupGarou\CardsSelection\CardsSelection\obj\Debug\CardsSelection.csproj.CoreCompileInputs.cache
+K:\INF\Eleves\Classes\Groupe_2C\LoupGarou\CardsSelection\CardsSelection\obj\Debug\CardsSelection.exe
+K:\INF\Eleves\Classes\Groupe_2C\LoupGarou\CardsSelection\CardsSelection\obj\Debug\CardsSelection.pdb
